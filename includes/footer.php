@@ -6,27 +6,20 @@
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-footer-widgets">
                         <h4>Contact Us</h4>
-                        <p>Lorem ipsum dolor sit amet nsectetur adipiscing elit. its is Nulla tempor.</p>
-                        <p>Cell: +88 01744 430440</p>
-                        <p>Email: mehedidb@gmail.com</p>
+                        <p>Get in touch with ACOMHA. We can help answer all your questions about mental health</p>
+                        <p>Cell: +234 8140984467</p>
+                        <p>Email: acomha@gmail.com</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-footer-widgets footer-menu">
                         <h4>Important Links</h4>
                         <ul>
-                            <li><a href="index.html">Home Page</a></li>
-                            <li><a href="causes.html">Causes</a></li>
-                            <li><a href="events.html">Events</a></li>
-                            <li><a href="gallery.html">Our gallery</a></li>
-                            <li><a href="contact.html">Contact us</a></li>
-                        </ul>
-                        <ul>
-                            <li><a href="https://codecanyon.net/">Codecanyon</a></li>
-                            <li><a href="https://themeforest.net/">Themeforest</a></li>
-                            <li><a href="https://graphicriver.net/">Graphicriver</a></li>
-                            <li><a href="https://audiojungle.net/">Audio Jungle</a></li>
-                            <li><a href="https://help.envato.com/">Help Envato</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/newsletter.php">Newsletter</a></li>
+                            <li><a href="/about-us.php">About Us</a></li>
+                            <li><a href="/get-involved.php">Get Involved</a></li>
+                            <li><a href="/contact-us.php">Contact us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -45,9 +38,8 @@
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-footer-widgets">
-                        <h4>Instagram Feed</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. its is Nulla tempor, nisl sed
-                            bibendu.</p>
+                        <h4>Our Goal</h4>
+                        <p>We believe that mental health conditions should be treated long before they reach the most critical point. We are commited to addressing mental health Be4Stage4.</p>
                         <div class="footer-subscriber-form mt30">
                             <form action="#">
                                 <input type="email" name="email" id="email">
@@ -65,7 +57,7 @@
                 <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12">
                     <div class="footer-copyright xs-center sm-center wow fadeIn sm-mb20 xs-mb-20"
                         style="visibility: hidden; animation-name: none;">
-                        <p>Copyright © <a href="http://themeforest.net/user/QuomodoTheme"> QuomodoTheme</a> All
+                        <p>Copyright © <a href="https://acomha.com"> ACOMHA</a> All
                             Right Reserved.</p>
                     </div>
                 </div>

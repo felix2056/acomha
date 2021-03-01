@@ -4,8 +4,8 @@
             <div class="row">
                 <div class="col-md-6 col-xs-12 col-sm-8">
                     <div class="left-contact">
-                        <p><i class="fa fa-phone"></i> +88 01744 430440</p>
-                        <p><i class="fa fa-envelope-o"></i> mehedidb@gmail.com</p>
+                        <p><i class="fa fa-phone"></i> +234 8140984467</p>
+                        <p><i class="fa fa-envelope-o"></i> acomha@gmail.com</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-xs-12 col-sm-4">
@@ -25,7 +25,12 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="navbar-header">
-                                <a href="index.html" class="navbar-brand"><img src="assets/img/logo.png" alt="logo"></a>
+                                <a href="/" class="navbar-brand">
+                                    <!-- <img src="assets/img/logo.png" alt="logo"> -->
+                                    <div class="welcome-text center">
+                                        <h4 style="color: #fff;font-weight: 900;font-size: 1.5em !important;">ACOMHA</h4>
+                                    </div>
+                                </a>
                             </div>
                             <svg class="ham hamRotate ham8" viewBox="0 0 100 100" width="50">
                                 <path class="line top"
@@ -42,45 +47,17 @@
                                     <i class="fa fa-search"></i>
                                 </div>
                                 <ul id="nav" class="nav navbar-nav pull-right">
-                                    <li class="active has-sub"><a href="index.html">Home</a>
-                                        <ul>
-                                            <li class="active"><a href="index.html">Home V1</a></li>
-                                            <li><a href="index-2.html">Home V2</a></li>
-                                            <li><a href="index-3.html">Home V3</a></li>
-                                        </ul>
-                                        <a class="dd-toggle" href="#"><i class="fa fa-plus"></i></a>
-                                    </li>
-                                    <li class="has-sub"><a href="causes.html">Causes</a>
-                                        <ul style="display: none;">
-                                            <li><a href="causes.html">Causes 1</a></li>
-                                            <li><a href="causes-2.html">Causes 2</a></li>
-                                        </ul>
-                                        <a class="dd-toggle" href="#"><i class="fa fa-plus"></i></a>
-                                    </li>
-                                    <li class="has-sub"><a href="events.html">Events</a>
-                                        <ul>
-                                            <li><a href="events.html">Events 1</a></li>
-                                            <li><a href="events-2.html">Events 2</a></li>
-                                        </ul>
-                                        <a class="dd-toggle" href="#"><i class="fa fa-plus"></i></a>
-                                    </li>
-                                    <li class="has-sub"><a href="blog.html">Blog</a>
-                                        <ul>
-                                            <li><a href="blog-left-sidebar.html">Blog Left Sidebar</a></li>
-                                            <li><a href="blog.html">Blog Right Sidebar</a></li>
-                                            <li><a href="blog-3-colunm.html">Blog 3 Column</a></li>
-                                            <li><a href="single-blog.html">Single Blog</a></li>
-                                        </ul>
-                                        <a class="dd-toggle" href="#"><i class="fa fa-plus"></i></a>
-                                    </li>
-                                    <li class="has-sub"><a href="#">Pages</a>
-                                        <ul>
-                                            <li><a href="gallery.html">Gallery 1</a></li>
-                                            <li><a href="gallery-2.html">Gallery 2</a></li>
-                                        </ul>
-                                        <a class="dd-toggle" href="#"><i class="fa fa-plus"></i></a>
-                                    </li>
-                                    <li><a href="contact.html">Contact</a></li>
+                                    <li class=""><a href="/">Home</a></li>
+
+                                    <!-- <li><a href="causes.html">Meet The Team</a></li> -->
+                                    
+                                    <li><a href="/newsletter.php">Newsletter</a></li>
+
+                                    <!-- <li><a href="/about-us.php">About Us</a></li> -->
+
+                                    <li><a href="/get-involved.php">Get Involved</a></li>
+
+                                    <li><a href="/contact-us.php">Contact Us</a></li>
                                 </ul>
                                 <div class="header-search-form">
                                     <form action="#">

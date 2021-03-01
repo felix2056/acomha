@@ -7,41 +7,14 @@
     <!--WELCOME SLIDER AREA-->
     <div class="welcome-slider-area font16 white owl-carousel owl-theme owl-responsive-1200">
         <div class="welcome-single-slide">
-            <div class="slide-bg-two slide-bg-overlay"></div>
-            <div class="welcome-area">
-                <div class="container">
-                    <div class="row flex-v-center">
-                        <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
-                            <div class="welcome-text center">
-                                <h1>Contributing to Build a Peaceful World</h1>
-                                <p>Authoritatively enable resource-leveling "outside the box" thinking
-                                    whereas robust scenarios. Holisticly visualize</p>
-                                <div class="home-button mt40 xs-mt40 ">
-                                    <a class="left ripple-btn" href="#">Our Services<span></span></a>
-                                    <a class="left ripple-btn active" href="#">Start
-                                        Now<span></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="welcome-single-slide">
             <div class="slide-bg-three slide-bg-overlay"></div>
             <div class="welcome-area">
                 <div class="container">
                     <div class="row flex-v-center">
                         <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
                             <div class="welcome-text center">
-                                <h1>Contributing to Build a Peaceful World</h1>
-                                <p>Authoritatively enable resource-leveling "outside the box" thinking
-                                    whereas robust scenarios. Holisticly visualize</p>
-                                <div class="home-button mt40 xs-mt40 ">
-                                    <a class="left ripple-btn" href="#">Start Now<span></span></a>
-                                    <a class="left ripple-btn active" href="#">Contact
-                                        Us<span></span></a>
-                                </div>
+                                <h1>Mental health in the workplace</h1>
+                                <p>Mental health problems are the leading cause of sickness absence in Africa.</p>
                             </div>
                         </div>
                     </div>
@@ -55,14 +28,8 @@
                     <div class="row flex-v-center">
                         <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
                             <div class="welcome-text center">
-                                <h1>Contributing to Build a Peaceful World</h1>
-                                <p>Authoritatively enable resource-leveling "outside the box" thinking
-                                    whereas robust scenarios. Holisticly visualize</p>
-                                <div class="home-button mt40 xs-mt40 ">
-                                    <a class="left ripple-btn" href="#">Services Here<span></span></a>
-                                    <a class="left ripple-btn active" href="#">Say
-                                        Hello<span></span></a>
-                                </div>
+                                <h1>Children, young people and families</h1>
+                                <p>10% of children and young people have a mental health problem.</p>
                             </div>
                         </div>
                     </div>
@@ -76,14 +43,23 @@
                     <div class="row flex-v-center">
                         <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
                             <div class="welcome-text center">
-                                <h1>Contributing to Build a Peaceful World</h1>
-                                <p>Authoritatively enable resource-leveling "outside the box" thinking
-                                    whereas robust scenarios. Holisticly visualize</p>
-                                <div class="home-button mt40 xs-mt40 ">
-                                    <a class="left ripple-btn" href="#">Our Services<span></span></a>
-                                    <a class="left ripple-btn active" href="#">Start
-                                        Now<span></span></a>
-                                </div>
+                                <h1>Challenging mental health inequalities</h1>
+                                <p>The socioeconomically disadvantaged are 2-3 times more likely to develop mental health problems.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="welcome-single-slide">
+            <div class="slide-bg-two slide-bg-overlay"></div>
+            <div class="welcome-area">
+                <div class="container">
+                    <div class="row flex-v-center">
+                        <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
+                            <div class="welcome-text center">
+                                <h1>Help Is Always Available</h1>
+                                <p>You're not alone; talk to someone you trust. Sharing a problem is often the first step to recovery.</p>
                             </div>
                         </div>
                     </div>
@@ -97,55 +73,12 @@
                     <div class="row flex-v-center">
                         <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
                             <div class="welcome-text center">
-                                <h1>Contributing to Build a Peaceful World</h1>
-                                <p>Authoritatively enable resource-leveling "outside the box" thinking
-                                    whereas robust scenarios. Holisticly visualize</p>
+                                <h1>Your latest Talkback</h1>
+                                <p>All the latest updates from ACOMHA.</p>
                                 <div class="home-button mt40 xs-mt40 ">
                                     <a class="left ripple-btn" href="#">Start Now<span></span></a>
                                     <a class="left ripple-btn active" href="#">Contact
                                         Us<span></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="welcome-single-slide">
-            <div class="slide-bg-one slide-bg-overlay"></div>
-            <div class="welcome-area">
-                <div class="container">
-                    <div class="row flex-v-center">
-                        <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
-                            <div class="welcome-text center">
-                                <h1>Contributing to Build a Peaceful World</h1>
-                                <p>Authoritatively enable resource-leveling "outside the box" thinking
-                                    whereas robust scenarios. Holisticly visualize</p>
-                                <div class="home-button mt40 xs-mt40 ">
-                                    <a class="left ripple-btn" href="#">Services Here<span></span></a>
-                                    <a class="left ripple-btn active" href="#">Say
-                                        Hello<span></span></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="welcome-single-slide">
-            <div class="slide-bg-two slide-bg-overlay"></div>
-            <div class="welcome-area">
-                <div class="container">
-                    <div class="row flex-v-center">
-                        <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
-                            <div class="welcome-text center">
-                                <h1>Contributing to Build a Peaceful World</h1>
-                                <p>Authoritatively enable resource-leveling "outside the box" thinking
-                                    whereas robust scenarios. Holisticly visualize</p>
-                                <div class="home-button mt40 xs-mt40 ">
-                                    <a class="left ripple-btn" href="#">Our Services<span></span></a>
-                                    <a class="left ripple-btn active" href="#">Start
-                                        Now<span></span></a>
                                 </div>
                             </div>
                         </div>
@@ -165,18 +98,14 @@
             <div class="col-md-7 col-lg-7col-sm-12 col-xs-12">
                 <div class="about-content xs-center sm-center sm-mb50 xs-mb30">
                     <p class="subhidding">About us</p>
-                    <h3 class="mb30 font32 md-font26">Progressively maintain centered information towhereas
-                        information. Efficiently restore wireless leadershher.</h3>
-                    <p>Progressively maintain client-centered information whereas reliable information. Efficiently
-                        restore wireless intermandated mindshare cross-platform partnerships.</p>
-                    <p>Assertively improvements. Energistically myocardinate plagiarize market-driven ovements.
-                        Energistically.</p>
+                    <h3 class="mb30 font32 md-font26">African Community Of Mental Health Awareness</h3>
+                    <p>ACOMHA understands that predudice, descrimination, negative steoreotype undermines mental health. Therefore we are committed to shun all sort of any preconceived opinions in all that we do. This means that we pleadge to work against toxoc-individuals, interpersonal judgement and institutional judgement in all their forms.</p>
                     <a href="#" class="read-more mt30 inline-block">Learn More</a>
                 </div>
             </div>
             <div class="col-md-5 col-lg-5 col-sm-12 col-xs-12">
                 <div class="about-mockup wow fadeIn" style="visibility: hidden; animation-name: none;">
-                    <img class="sm-width100p xs-width100p" src="assets/img/about/about.jpg" alt="">
+                    <img class="sm-width100p xs-width100p" src="/assets/img/about/mental-health.jpeg" alt="">
                 </div>
             </div>
         </div>
@@ -184,197 +113,19 @@
 </section>
 <!--ABOUT AREA END-->
 
-<!--CAUSES AREA-->
-<section class="causes-area padding-bottom">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
-                <div class="area-title text-center wow fadeIn" style="visibility: hidden; animation-name: none;">
-                    <h2>Popular Causes</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tempor, nisl sed bibendum
-                        pretium, diam nisi mattis lectus varius.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-causes-two orange">
-                    <div class="causes_thumb"><img src="assets/img/causes/causes-1.jpg" alt=""></div>
-                    <div class="causes_details">
-                        <div class="causes_category">
-                            headthy meal
-                        </div>
-                        <h3 class="causes_title">Save Homeless Peoples</h3>
-                        <p>Caompletely deliver resource-leveling oppor tunities before interop erable</p>
-                        <div class="causes-goal">
-                            <div class="goal-status" data-progress-animation="59%"></div>
-                        </div>
-                        <div class="raised_fund_and_contribute">
-                            <div class="raised"><span>70%</span> funded</div>
-                            <a href="#" class="contribute">contribute</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-causes-two blue">
-                    <div class="causes_thumb"><img src="assets/img/causes/causes-2.jpg" alt=""></div>
-                    <div class="causes_details">
-                        <div class="causes_category">
-                            Education
-                        </div>
-                        <h3 class="causes_title">Make money for homeless</h3>
-                        <p>Caompletely deliver resource-leveling oppor tunities before interop erable</p>
-                        <div class="causes-goal">
-                            <div class="goal-status" data-progress-animation="59%"></div>
-                        </div>
-                        <div class="raised_fund_and_contribute">
-                            <div class="raised"><span>70%</span> funded</div>
-                            <a href="#" class="contribute">contribute</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12">
-                <div class="single-causes-two yellow">
-                    <div class="causes_thumb"><img src="assets/img/causes/causes-3.jpg" alt=""></div>
-                    <div class="causes_details">
-                        <div class="causes_category">
-                            homeless
-                        </div>
-                        <h3 class="causes_title">Save homeless people</h3>
-                        <p>Caompletely deliver resource-leveling oppor tunities before interop erable</p>
-                        <div class="causes-goal">
-                            <div class="goal-status" data-progress-animation="59%"></div>
-                        </div>
-                        <div class="raised_fund_and_contribute">
-                            <div class="raised"><span>70%</span> funded</div>
-                            <a href="#" class="contribute">contribute</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-6 col-xs-12 visible-sm">
-                <div class="single-causes-two blue">
-                    <div class="causes_thumb"><img src="assets/img/causes/causes-3.jpg" alt=""></div>
-                    <div class="causes_details">
-                        <div class="causes_category">
-                            homeless
-                        </div>
-                        <h3 class="causes_title">Save homeless people</h3>
-                        <p>Caompletely deliver resource-leveling oppor tunities before interop erable</p>
-                        <div class="causes-goal">
-                            <div class="goal-status" data-progress-animation="59%"></div>
-                        </div>
-                        <div class="raised_fund_and_contribute">
-                            <div class="raised"><span>70%</span> funded</div>
-                            <a href="#" class="contribute">contribute</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="more-button center">
-                    <a href="#" class="read-more">View All</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!--CAUSES AREA END-->
 
 <!--EVENT AREA-->
-<section class="event-area padding-100-70 relative" id="event">
-    <div class="area-bg"></div>
+<section class="video-area section-padding relative" id="video">
+    <div class="area-bg" data-stellar-background-ratio="0.6" style="background-position: 50% -46.8px;"></div>
     <div class="container">
         <div class="row">
-            <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
-                <div class="area-title text-center wow fadeIn white" style="visibility: hidden; animation-name: none;">
-                    <h2>Upcoming Event</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla tempor, nisl sed bibendum
-                        pretium, diam nisi mattis lectus varius.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
-                <div class="single-event-two yellow">
-                    <div class="event-thumb">
-                        <img src="assets/img/event/event-1.jpg" alt="">
+            <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
+                <div class="video-promo-details padding-50-50 white center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+                    <div class="video-button-content">
+                        <span data-video-id="j1S66liv1t8" class="open-video-popup"><i class="fa fa-play"></i></span>
                     </div>
-                    <div class="event-details">
-                        <div class="event_date">03 FEBRUARY</div>
-                        <h3 class="event-title">Project management in the voluntary sector</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                            exercitation.</p>
-                        <div class="event_location_time">
-                            <div class="event_location">
-                                <p><span><i class="ti-time"></i> 10.00AM- 3.00PM</span> <span><span
-                                            class="ti-location-pin"></span> 167 Stefhen St. New York</span></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="event_lounch_time" data-date="June 7, 2019 15:03:25">
-                        <div>000 <span>days</span></div>
-                        <div>00 <span>hrs</span></div>
-                        <div>00 <span>min</span></div>
-                        <div>00 <span>sec</span></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-12">
-                <div class="single-event-two orange">
-                    <div class="event-thumb">
-                        <img src="assets/img/event/event-2.jpg" alt="">
-                    </div>
-                    <div class="event-details">
-                        <div class="event_date">03 FEBRUARY</div>
-                        <h3 class="event-title">Project management in the voluntary sector</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                            exercitation.</p>
-                        <div class="event_location_time">
-                            <div class="event_location">
-                                <p><span><i class="ti-time"></i> 10.00AM- 3.00PM</span> <span><span
-                                            class="ti-location-pin"></span> 167 Stefhen St. New York</span></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="event_lounch_time" data-date="June 7, 2019 15:03:25">
-                        <div>000 <span>days</span></div>
-                        <div>00 <span>hrs</span></div>
-                        <div>00 <span>min</span></div>
-                        <div>00 <span>sec</span></div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-12">
-                <div class="single-event-two blue">
-                    <div class="event-thumb">
-                        <img src="assets/img/event/event-3.jpg" alt="">
-                    </div>
-                    <div class="event-details">
-                        <div class="event_date">03 FEBRUARY</div>
-                        <h3 class="event-title">Project management in the voluntary sector</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
-                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                            exercitation.</p>
-                        <div class="event_location_time">
-                            <div class="event_location">
-                                <p><span><i class="ti-time"></i> 10.00AM- 3.00PM</span> <span><span
-                                            class="ti-location-pin"></span> 167 Stefhen St. New York</span></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="event_lounch_time" data-date="June 7, 2019 15:03:25">
-                        <div>000 <span>days</span></div>
-                        <div>00 <span>hrs</span></div>
-                        <div>00 <span>min</span></div>
-                        <div>00 <span>sec</span></div>
-                    </div>
+                    <h2>The B4Stage4 Philosophy</h2>
+                    <p>When we think about cancer, cerebral palsy, spina bufida, prosthetic log, diabetes. We don't wait years to treat them, we start before Stage4 - We begin the prevention so why don't we do the same for individuals who are dealing with mental health concerns?</p>
                 </div>
             </div>
         </div>
@@ -383,7 +134,7 @@
 <!--EVENT AREA END-->
 
 <!--WORK GALLRTY-->
-<section class="work-gallery-area section-padding">
+<!-- <section class="work-gallery-area section-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
@@ -500,8 +251,69 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!--WORK GALLRTY END-->
+
+<!--HOW WE REACH-->
+<section class="process-area padding-100-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
+                <div class="area-title text-center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+                    <h2>How We Reach</h2>
+                    <p>Support ACOMHA to build an African society in which mental illness is not enshrouded in stigma, discrimination and mysteries.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row no-margin">
+            <div class="col-md-3 col-sm-6 no-padding sm-padding20">
+                <div class="single-parocess mb30">
+                    <div class="process-icon">
+                        <i class="ti-announcement"></i>
+                    </div>
+                    <div class="process-details">
+                        <h3>Announcement</h3>
+                        <p>Get information from acomha to help you to look after your mental health.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 no-padding sm-padding20">
+                <div class="single-parocess mb30">
+                    <div class="process-icon">
+                        <i class="ti-heart"></i>
+                    </div>
+                    <div class="process-details">
+                        <h3>Collect Donation</h3>
+                        <p>Your donation can help ACOMHA champion good mental health for all.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 no-padding sm-padding20">
+                <div class="single-parocess mb30">
+                    <div class="process-icon">
+                        <i class="ti-server"></i>
+                    </div>
+                    <div class="process-details">
+                        <h3>Reserved Donation</h3>
+                        <p>Could help us <strong>Do Research</strong> that will answer some of vital questions about mental health and save lives.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3 col-sm-6 no-padding sm-padding20">
+                <div class="single-parocess mb30">
+                    <div class="process-icon">
+                        <i class="ti-check"></i>
+                    </div>
+                    <div class="process-details">
+                        <h3>Give Donation</h3>
+                        <p>You can donate any amount you like to us – every donation helps us to make a difference.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!--HOW WE REACH-->
 
 <!--CALL TO ACTION-->
 <section class="call-to-action-area section-padding relative">
@@ -520,10 +332,10 @@
             <div class="col-md-4">
                 <div class="cta-right-form">
                     <form action="#">
-                        <input type="text" name="name" id="name">
-                        <input type="text" name="phone" id="phone">
-                        <input type="email" name="email" id="donor_email">
-                        <textarea name="message" id="message" cols="10" rows="4"></textarea>
+                        <input type="text" name="name" id="name" placeholder="Name..">
+                        <input type="text" name="phone" id="phone" placeholder="Phone..">
+                        <input type="email" name="email" id="donor_email" placeholder="Email..">
+                        <textarea name="message" id="message" cols="10" rows="4" placeholder="Message.."></textarea>
                         <button type="submit">Send</button>
                     </form>
                 </div>
@@ -539,7 +351,7 @@
         <div class="row">
             <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
                 <div class="area-title text-center wow fadeIn" style="visibility: hidden; animation-name: none;">
-                    <h2>Awesome Team</h2>
+                    <h2>Meet The Team</h2>
                     <p> Website that most businesses want easy to find stylish appealing loading mobile responsive
                         eas.</p>
                 </div>
@@ -547,15 +359,14 @@
         </div>
         <div class="row">
             <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                <div class="single-team-five mb30 center wow fadeInUp" data-wow-delay="0.1s"
-                    style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+                <div class="single-team-five mb30 center wow fadeInUp" data-wow-delay="0.1s" style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                     <div class="member-image">
-                        <img src="assets/img/team/member-1.jpg" alt="">
+                        <img src="/assets/img/team/member-1.jpeg" alt="">
                     </div>
                     <div class="member-details">
                         <div class="name-and-designation">
-                            <h4>Jonshon Adams</h4>
-                            <p>Asst Designer</p>
+                            <h4>Ugochukwu Nwaigwe</h4>
+                            <p>Founder/CEO</p>
                         </div>
                         <div class="member-social-bookmark">
                             <ul>
@@ -568,15 +379,14 @@
                 </div>
             </div>
             <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                <div class="single-team-five mb30 center wow fadeInUp" data-wow-delay="0.2s"
-                    style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                <div class="single-team-five mb30 center wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                     <div class="member-image">
-                        <img src="assets/img/team/member-2.jpg" alt="">
+                        <img src="assets/img/team/member-2.jpeg" alt="">
                     </div>
                     <div class="member-details">
                         <div class="name-and-designation">
-                            <h4>Jonshon Adams</h4>
-                            <p>Asst Designer</p>
+                            <h4>Chikaochi Adams</h4>
+                            <p>Worker</p>
                         </div>
                         <div class="member-social-bookmark">
                             <ul>
@@ -589,15 +399,14 @@
                 </div>
             </div>
             <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                <div class="single-team-five mb30 center wow fadeInUp" data-wow-delay="0.2s"
-                    style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                <div class="single-team-five mb30 center wow fadeInUp" data-wow-delay="0.2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
                     <div class="member-image">
-                        <img src="assets/img/team/member-3.jpg" alt="">
+                        <img src="assets/img/team/member-3.jpeg" alt="">
                     </div>
                     <div class="member-details">
                         <div class="name-and-designation">
-                            <h4>Jonshon Adams</h4>
-                            <p>Asst Designer</p>
+                            <h4>Prince Charming</h4>
+                            <p>Worker</p>
                         </div>
                         <div class="member-social-bookmark">
                             <ul>
@@ -610,15 +419,14 @@
                 </div>
             </div>
             <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                <div class="single-team-five mb30 center wow fadeInUp" data-wow-delay="0.1s"
-                    style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
+                <div class="single-team-five mb30 center wow fadeInUp" data-wow-delay="0.1s" style="visibility: hidden; animation-delay: 0.1s; animation-name: none;">
                     <div class="member-image">
-                        <img src="assets/img/team/member-4.jpg" alt="">
+                        <img src="assets/img/team/member-4.jpeg" alt="">
                     </div>
                     <div class="member-details">
                         <div class="name-and-designation">
-                            <h4>Jonshon Adams</h4>
-                            <p>Asst Designer</p>
+                            <h4>Cynthia</h4>
+                            <p>Worker</p>
                         </div>
                         <div class="member-social-bookmark">
                             <ul>
@@ -658,84 +466,72 @@
 </section>
 <!--VOLUNTEER ARAE END-->
 
-<!--BLOG AREA-->
-<section class="blog-feed-area padding-100-50" id="news">
+<!--INFO AREA-->
+<section class="testimonials-style-five section-padding">
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
-                <div class="area-title text-center wow fadeIn" style="visibility: hidden; animation-name: none;">
-                    <h2>Our Blog</h2>
-                    <p> Website that most businesses want easy to find stylish appealing loading mobile responsive
-                        eas.</p>
+                <div class="area-title text-center">
+                    <h2>Testimonials</h2>
+                    <p>Mental health problems affect 1 in 4 people every year and no one should feel ashamed. By sharing our experiences, together we can end the stigma.</p>
                 </div>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                <div class="single-blog-item-two mb50 wow fadeIn" style="visibility: hidden; animation-name: none;">
-                    <div class="blog-thumb">
-                        <a href="blog.html"><img src="assets/img/blog/blog_1.jpg" alt=""></a>
-                    </div>
-                    <div class="blog-details padding20 border">
-                        <p class="blog-meta font14 mb20"><a href="#">Feb 01, 2018 </a> by <a href="#">Admin</a></p>
-                        <h3 class="blog-title"><a href="blog.html">Its time to Make the world better Together.</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, cosectetur is an adip loremis isicingelit, sed do.</p>
-                        <a class="readmore font14 mt0 uppercase" href="blog.html">Read More <i
-                                class="fa fa-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                <div class="single-blog-item-two mb50 wow fadeIn" style="visibility: hidden; animation-name: none;">
-                    <div class="blog-thumb">
-                        <a href="blog.html"><img src="assets/img/blog/blog_2.jpg" alt=""></a>
-                    </div>
-                    <div class="blog-details padding20 border">
-                        <p class="blog-meta font14 mb20"><a href="#">Feb 01, 2018 </a> by <a href="#">Admin</a></p>
-                        <h3 class="blog-title"><a href="blog.html">Its time to Make the world better Together.</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, cosectetur is an adip loremis isicingelit, sed do.</p>
-                        <a class="readmore font14 mt0 uppercase" href="blog.html">Read More <i
-                                class="fa fa-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                <div class="single-blog-item-two mb50 wow fadeIn" style="visibility: hidden; animation-name: none;">
-                    <div class="blog-thumb">
-                        <a href="blog.html"><img src="assets/img/blog/blog_3.jpg" alt=""></a>
-                    </div>
-                    <div class="blog-details padding20 border">
-                        <p class="blog-meta font14 mb20"><a href="#">Feb 01, 2018 </a> by <a href="#">Admin</a></p>
-                        <h3 class="blog-title"><a href="blog.html">Its time to Make the world better Together.</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, cosectetur is an adip loremis isicingelit, sed do.</p>
-                        <a class="readmore font14 mt0 uppercase" href="blog.html">Read More <i
-                                class="fa fa-long-arrow-right"></i></a>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                <div class="single-blog-item-two mb50 wow fadeIn visible-sm animated"
-                    style="visibility: visible; animation-name: fadeIn;">
-                    <div class="blog-thumb">
-                        <a href="blog.html"><img src="assets/img/blog/blog_1.jpg" alt=""></a>
-                    </div>
-                    <div class="blog-details padding20 border">
-                        <p class="blog-meta font14 mb20"><a href="#">Feb 01, 2018 </a> by <a href="#">Admin</a></p>
-                        <h3 class="blog-title"><a href="blog.html">Its time to Make the world better Together.</a>
-                        </h3>
-                        <p>Lorem ipsum dolor sit amet, cosectetur is an adip loremis isicingelit, sed do.</p>
-                        <a class="readmore font14 mt0 uppercase" href="blog.html">Read More <i
-                                class="fa fa-long-arrow-right"></i></a>
+            <div class="col-md-12">
+                <div class="testmonial-style-five">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 col-xs-12">
+                            <div class="testmonial-details center owl-carousel">
+                                <div class="slide-item">
+                                    <div class="single-testimonial">
+                                        <div class="author-content">
+                                            <img src="assets/img/quotes.png" alt="">
+                                            <p>"Lessening stigma around mental health was, and still is, such an important aspect of my life. As a young teenager, my life was chaotic and I was continuously stigmatised by my peers, friends and family. So I knew first-hand the damage that could be done as a result of stigma, and how stifling it can be."</p>
+                                            <h3>Timothy Okere</h3>
+                                        </div>
+                                        <div class="single-testmonial-photo"><img src="assets/img/testmonial/testmonial-1.jpg" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="slide-item">
+                                    <div class="single-testimonial">
+                                        <div class="author-content">
+                                            <img src="assets/img/quotes.png" alt="">
+                                            <p>"I joined ACOMHA as a Champion in March so I’ve only experienced attending and running events virtually! One of the first events I attended was a poetry slam run by ACOMHA's Hub. This was a monthly online event and, after joining initially as a guest, I was then asked if I would host it."</p>
+                                            <h3>Vivian Christopher</h3>
+                                        </div>
+                                        <div class="single-testmonial-photo"><img src="assets/img/testmonial/testmonial-2.jpg" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="slide-item">
+                                    <div class="single-testimonial">
+                                        <div class="author-content">
+                                            <img src="assets/img/quotes.png" alt="">
+                                            <p>"Some of the most unexpected conversations I’ve had about mental health have been the most powerful ones. In my experience, talking to an acquaintance, or even a stranger, can have a big impact on your mindset."</p>
+                                            <h3>James Chukwuebuka</h3>
+                                        </div>
+                                        <div class="single-testmonial-photo"><img src="assets/img/testmonial/testmonial-3.jpg" alt=""></div>
+                                    </div>
+                                </div>
+                                <div class="slide-item">
+                                    <div class="single-testimonial">
+                                        <div class="author-content">
+                                            <img src="assets/img/quotes.png" alt="">
+                                            <p>"It’s always good to sometimes sit and think back to times when someone has helped you in whatever way. This could be if you’ve broken down and someone stops for you, or you need directions as you’re in a place unfamiliar."</p>
+                                            <h3>Angel Bura</h3>
+                                        </div>
+                                        <div class="single-testmonial-photo"><img src="assets/img/testmonial/testmonial-4.jpg" alt=""></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!--BLOG AREA END-->
+<!--INFO AREA END-->
 
 <!--CLIENT AREA-->
 <section class="client-area padding-bottom">
@@ -755,8 +551,7 @@
 
 
                         <div class="owl-stage-outer">
-                            <div class="owl-stage"
-                                style="transform: translate3d(-2784px, 0px, 0px); transition: all 1s ease 0s; width: 4640px;">
+                            <div class="owl-stage" style="transform: translate3d(-2784px, 0px, 0px); transition: all 1s ease 0s; width: 4640px;">
                                 <div class="owl-item cloned" style="width: 212px; margin-right: 20px;">
                                     <div class="single-client">
                                         <img src="assets/img/client/client_1.png" alt="">

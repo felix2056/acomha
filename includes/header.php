@@ -9,10 +9,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Karnes Business Template">
-    <meta name="keywords" content="Finance, Landing, Business, Onepage, Html, Business">
+    <meta name="keywords" content="Mental Health, Psychology, African, Donate, Non-profit, Business">
 
     <!--====== TITLE TAG ======-->
-    <title>FundCare - Nonprofit Charity HTML Template</title>
+    <title>African Community Of Mental Health Awareness</title>
 
     <!--====== FAVICON ICON =======-->
     <link rel="shortcut icon" type="image/ico" href="assets/img/favicon.png">
