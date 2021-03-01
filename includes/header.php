@@ -8,14 +8,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Karnes Business Template">
+    <meta name="description" content="We believe that mental health conditions should be treated long before they reach the most critical point. We are commited to addressing mental health Be4Stage4.">
     <meta name="keywords" content="Mental Health, Psychology, African, Donate, Non-profit, Business">
 
     <!--====== TITLE TAG ======-->
     <title>African Community Of Mental Health Awareness</title>
 
     <!--====== FAVICON ICON =======-->
-    <link rel="shortcut icon" type="image/ico" href="assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/ico" href="/assets/img/logo.jpeg">
 
     <!--====== STYLESHEETS ======-->
     <link href="assets/css/plugins.css" rel="stylesheet">
