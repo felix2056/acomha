@@ -483,10 +483,10 @@
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 col-xs-12">
                             <div class="testmonial-details center owl-carousel">
-                                <div class="slide-item">
+                                <!-- <div class="slide-item">
                                     <div class="single-testimonial">
                                         <div class="author-content">
-                                            <img src="assets/img/quotes.png" alt="">
+                                            <img src="/assets/img/quotes.png" alt="">
                                             <p>"Lessening stigma around mental health was, and still is, such an important aspect of my life. As a young teenager, my life was chaotic and I was continuously stigmatised by my peers, friends and family. So I knew first-hand the damage that could be done as a result of stigma, and how stifling it can be."</p>
                                             <h3>Timothy Okere</h3>
                                         </div>
@@ -522,7 +522,7 @@
                                         </div>
                                         <div class="single-testmonial-photo"><img src="assets/img/testmonial/testmonial-4.jpg" alt=""></div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
@@ -539,130 +539,66 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="client-slider-content">
-                    <div class="client-slider owl-carousel owl-theme owl-responsive-1200 owl-loaded">
-
-
-
-
-
-
-
-
-
-
-                        <div class="owl-stage-outer">
-                            <div class="owl-stage" style="transform: translate3d(-2784px, 0px, 0px); transition: all 1s ease 0s; width: 4640px;">
-                                <div class="owl-item cloned" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_1.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_2.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_3.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_4.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_5.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_1.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_2.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_3.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_4.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_5.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_1.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_2.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item active" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_3.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item active" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_4.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item active" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_5.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned active" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_1.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned active" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_2.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_3.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_4.png" alt="">
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 212px; margin-right: 20px;">
-                                    <div class="single-client">
-                                        <img src="assets/img/client/client_5.png" alt="">
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="client-slider owl-carousel">
+                        <div class="single-client">
+                            <img src="assets/img/client/client_1.png" alt="">
                         </div>
-                        <div class="owl-controls">
-                            <div class="owl-nav">
-                                <div class="owl-prev" style=""><i class="fa fa-angle-left"></i></div>
-                                <div class="owl-next" style=""><i class="fa fa-angle-right"></i></div>
-                            </div>
-                            <div class="owl-dots" style="">
-                                <div class="owl-dot"><span></span></div>
-                                <div class="owl-dot active"><span></span></div>
-                            </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_2.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_3.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_4.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_5.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_1.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_2.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_3.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_4.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_5.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_1.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_2.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_3.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_4.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_5.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_1.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_2.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_3.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_4.png" alt="">
+                        </div>
+                        <div class="single-client">
+                            <img src="assets/img/client/client_5.png" alt="">
                         </div>
                     </div>
                 </div>
