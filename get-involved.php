@@ -29,7 +29,7 @@
             <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
                 <div class="area-title text-center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
                     <h2>Get Involved</h2>
-                    <p>There are lots of ways you can get involved with the frican Community Of Mental Health Awareness
+                    <p>There are lots of ways you can get involved with the African Community Of Mental Health Awareness (ACOMHA)
                         - whether you're an individual, a group, or an organisation, we'd love to hear from you! Your
                         involvement can help us create a world with good mental health for all.</p>
                 </div>

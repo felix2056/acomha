@@ -6,7 +6,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-footer-widgets">
                         <h4>Contact Us</h4>
-                        <p>Get in touch with ACOMHA. We can help answer all your questions about mental health</p>
+                        <p>Get in touch with ACOMHA. We can help answer all your questions about mental health.</p>
                         <p>Cell: +234 8140984467</p>
                         <p>Email: acomha@gmail.com</p>
                     </div>
@@ -17,7 +17,7 @@
                         <ul>
                             <li><a href="/">Home</a></li>
                             <li><a href="/newsletter.php">Newsletter</a></li>
-                            <li><a href="/about-us.php">About Us</a></li>
+                            <!-- <li><a href="/about-us.php">About Us</a></li> -->
                             <li><a href="/get-involved.php">Get Involved</a></li>
                             <li><a href="/contact-us.php">Contact us</a></li>
                         </ul>

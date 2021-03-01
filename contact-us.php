@@ -12,8 +12,8 @@
                     <div class="barner-text center white mt50">
                         <h1>Contact Us</h1>
                         <ul class="breadcrumb no-bg mb0">
-                            <li><a href="index.html">Home</a></li>
-                            <li class="active"><a href="contact.html">Contact</a></li>
+                            <li><a href="/">Home</a></li>
+                            <li class="active"><a href="/contact-us.php">Contact</a></li>
                         </ul>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
             <div class="col-md-6 col-lg-6 col-md-offset-3 col-lg-offset-3 col-sm-12 col-xs-12">
                 <div class="area-title text-center wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
                     <h2>Contact Us</h2>
-                    <p>Website that most businesses want easy to find stylish appealing loading mobile responsive eas.</p>
+                    <p>Get in touch with ACOMHA. We can help answer all your questions about mental health</p>
                 </div>
             </div>
         </div>
